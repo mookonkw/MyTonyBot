@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mab
 - 👀 I’m interested in learning python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how discord works..
+- 💞️ I’m looking to collaborate on building skills in python
 - 📫 How to reach me https://www.linkedin.com/in/mabelokonkwo/
 
 <!---
