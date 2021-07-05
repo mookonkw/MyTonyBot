@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mab
-- 👀 I’m interested in learning python
-- 🌱 I’m currently learning how discord works..
+- 👀 I’m interested in perfecting python
+- 🌱 I’m am currently working on adding functions to my Conversational Virtual Assistant name Tony
 - 💞️ I’m looking to collaborate on building skills in python
-- 📫 How to reach me https://www.linkedin.com/in/agirlcalledmab/
+- 📫 you can connect with me on linkedin at ---> https://www.linkedin.com/in/agirlcalledmab/
 
 <!---
 mookonkw/mookonkw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
