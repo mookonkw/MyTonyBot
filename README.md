@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning how discord works..
 - 💞️ I’m looking to collaborate on building skills in python
-- 📫 How to reach me https://www.linkedin.com/in/mabelokonkwo/
+- 📫 How to reach me https://www.linkedin.com/in/agirlcalledmab/
 
 <!---
 mookonkw/mookonkw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
