@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mab
 - 👀 I’m interested in perfecting python
-- 🌱 I’m am currently working on adding functions to my Conversational Virtual Assistant name Tony
+- 🌱 I’m am currently working on adding functions to my Conversational Virtual Assistant named Tony
 - 💞️ I’m looking to collaborate on building skills in python
 - 📫 you can connect with me on linkedin at ---> https://www.linkedin.com/in/agirlcalledmab/
 
