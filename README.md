@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mab
+- 👋 Hi, I’m @mabe
 - 🌱 This is my Conversational Virtual Assistant named Tony
 - 👩‍🎓 I learned how to build this during my 14 weeks Python training hosted by [learn.saidatech.com](https://learn.saidatech.com/course/PDA500-0719)
 - 💞️ I’m looking to collaborate on building skills in python
